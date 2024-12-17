@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/moistlad/Documents/UMSL FALL 2024/CMP_SCI_5420/krs8dd.6/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/highlight.dir/highlight.cpp.o -c \"/home/moistlad/Documents/UMSL FALL 2024/CMP_SCI_5420/krs8dd.6/highlight.cpp\"",
+  "file": "/home/moistlad/Documents/UMSL FALL 2024/CMP_SCI_5420/krs8dd.6/highlight.cpp"
+}
+]

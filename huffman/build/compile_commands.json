@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/moistlad/Documents/UMSL FALL 2024/CMP_SCI_5420/krs8dd.6/huffman/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/huffman.dir/huffman.cpp.o -c \"/home/moistlad/Documents/UMSL FALL 2024/CMP_SCI_5420/krs8dd.6/huffman/huffman.cpp\"",
+  "file": "/home/moistlad/Documents/UMSL FALL 2024/CMP_SCI_5420/krs8dd.6/huffman/huffman.cpp"
+}
+]
